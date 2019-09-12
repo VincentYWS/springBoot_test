@@ -1,5 +1,5 @@
 ﻿server:
-  port: 8081
+  port: 8087
 spring:
   mvc:
     static-path-pattern: /**
