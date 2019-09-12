@@ -1,0 +1,7 @@
+﻿server:
+  port: 8081
+spring:
+  mvc:
+    static-path-pattern: /**
+  resources:
+    templates-locations=classpath:templates/,file:templates/
